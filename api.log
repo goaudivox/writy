@@ -1,0 +1,219 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:root:Code execution attempt: prin('hello world')
+INFO:root:Code execution attempt: import os
+INFO:root:Code execution attempt: print('hello world')
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:root:Code execution attempt: import os
+INFO:root:Code execution attempt: result = 123 + 456
+INFO:root:Code execution attempt: prin('hello world')
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 106-108-606
+INFO:root:Code execution attempt: result = 123 + 456
+INFO:root:Code execution attempt: prin('hello world')
+INFO:werkzeug:147.185.132.24 - - [25/Feb/2025 07:45:17] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:root:Code execution attempt: result = 123 + 456
+INFO:root:Code execution attempt: prin('hello world')
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 752-299-753
+ERROR:werkzeug:142.93.116.115 - - [26/Feb/2025 08:34:11] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:142.93.116.115 - - [26/Feb/2025 08:34:11] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¹9\x83åÀ\x81@\x7f_>¡Zü\x02qòjÒöX«á\x07ãÙ65Í\x0dE¾!\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:142.93.116.115 - - [26/Feb/2025 08:34:11] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ë\x06ç\x95oýÃNf¢ïØ\x93'\x07AØ¯TÛH£*pè\x9d\x84»ð\x92@³\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+INFO:werkzeug:142.93.116.115 - - [26/Feb/2025 08:34:11] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ë\x06ç\x95oýÃNf¢ïØ\x93'\x07AØ¯TÛH£*pè\x9d\x84»ð\x92@³\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:142.93.116.115 - - [26/Feb/2025 08:34:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:64.62.197.61 - - [26/Feb/2025 08:36:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:64.62.197.56 - - [26/Feb/2025 08:36:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/hello.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/hello.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-479-469
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-616-298
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-616-298
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 801-083-316
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 801-083-316
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.15.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:13.59.124.21 - - [26/Feb/2025 21:00:58] "[35m[1mPOST /modify-code HTTP/1.1[0m" 500 -
+INFO:werkzeug:98.176.41.239 - - [26/Feb/2025 21:01:36] "[35m[1mGET /modify-code HTTP/1.1[0m" 500 -
+INFO:werkzeug:98.176.41.239 - - [26/Feb/2025 21:01:36] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:13.59.124.21 - - [26/Feb/2025 21:02:41] "POST /modify-code HTTP/1.1" 200 -
+INFO:werkzeug:198.235.24.117 - - [26/Feb/2025 21:35:41] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:13.59.124.21 - - [26/Feb/2025 21:56:07] "[35m[1mPOST /update-status HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 801-083-316
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 582-407-212
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 738-684-305
+INFO:werkzeug: * Detected change in '/home/ubuntu/flask-backend/app.py', reloading
+INFO:werkzeug: * Restarting with stat
